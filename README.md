@@ -59,8 +59,6 @@ If your organization has been impacted by this vulnerability or you need assista
 - 📧 Secure Email: amrameng@proton.me
 - 🛡️ For urgent security assistance or consultation, feel free to reach out via ProtonMail or LinkedIn
 
-- 📧 For urgent security assistance or consultation, reach out via LinkedIn
-
 I'm available to help organizations:
 - Verify if they were affected
 - Provide guidance on mitigation steps
