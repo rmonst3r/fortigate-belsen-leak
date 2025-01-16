@@ -51,3 +51,15 @@ This information is provided for defensive security research purposes only. The 
 
 - [Fortinet Advisory](https://www.fortinet.com/blog/psirt-blogs/update-regarding-cve-2022-40684)
 - CVE-2022-40684
+
+## Contact & Support
+
+If your organization has been impacted by this vulnerability or you need assistance with mitigation:
+
+- 💼 LinkedIn: [Amram Englander](https://www.linkedin.com/in/amram-englander-a23a6a89/)
+- 📧 For urgent security assistance or consultation, reach out via LinkedIn
+
+I'm available to help organizations:
+- Verify if they were affected
+- Provide guidance on mitigation steps
+- Assist with security hardening
