@@ -61,3 +61,6 @@ This information is provided for defensive security research purposes only. The 
 - CVE-2022-40684
 - Source: https://github.com/arsolutioner/fortigate-belsen-leak
 
+#Contact
+
+- https://www.linkedin.com/in/randallmaharaj/
