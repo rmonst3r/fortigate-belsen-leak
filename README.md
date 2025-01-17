@@ -23,7 +23,13 @@
     ║                    Configuration Leak Tracker                               ║
     ╚═════════════════════════════════════════════════════════════════════════════╝
 
-# Fortigate Belsen Leak Research
+#Fork Info
+
+Forked from: https://github.com/arsolutioner/fortigate-belsen-leak - Thank you for posting the dump!
+I have iterated on it by matching the ip addresses to Countries as well as ASN.
+Anyone willing to help build a map?
+Check to see if your ip is listed and take action immediately.
+
 
 This repository contains informaion about the Fortigate firewall vulnerability (CVE-2022-40684) and affected IPs that were publicly disclosed by the Belsen Group. This information is being shared for security research and defensive purposes to help organizations identify if they were impacted.
 
@@ -42,6 +48,8 @@ This repository serves as a resource for:
 
 - `affected_ips.txt`: List of IP addresses identified as potentially affected
 - `REFERENCES.md`: Additional resources and references about the vulnerability
+- `affected_ips_country_code_asn.csv`: The list modified to match ASN and Country in CSV format.
+- `affected_ips_country_code_asn.xlsx`: The list modified to match ASN and Country in Excel format, with pivot tables.
 
 ## Disclaimer
 
@@ -51,15 +59,5 @@ This information is provided for defensive security research purposes only. The 
 
 - [Fortinet Advisory](https://www.fortinet.com/blog/psirt-blogs/update-regarding-cve-2022-40684)
 - CVE-2022-40684
+- Source: https://github.com/arsolutioner/fortigate-belsen-leak
 
-## Contact & Support
-
-If your organization has been impacted by this vulnerability or you need assistance with mitigation:
-- 💼 LinkedIn: [Amram Englander](https://www.linkedin.com/in/amram-englander-a23a6a89/)
-- 📧 Secure Email: amrameng@proton.me
-- 🛡️ For urgent security assistance or consultation, feel free to reach out via ProtonMail or LinkedIn
-
-I'm available to help organizations:
-- Verify if they were affected
-- Provide guidance on mitigation steps
-- Assist with security hardening
